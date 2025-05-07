@@ -55,6 +55,8 @@ How many movies have a rating above 7.5?
 Update the rating of the movie "The Imitation Game" to 8.5.
 Add a new actor: "Zendaya", born in 1996.
 Delete the movie with title "The Room".
+
+
 📌 Part 2 – Python Interaction
 Write a Python script that does the following:
 
@@ -62,6 +64,8 @@ Connects to Redis.
 Loads all actor hashes and counts how many actors have a last name starting with “P”.
 Gets all movies released after 2010 with more than 100,000 votes.
 Creates a new hash: top_movies_by_genre:<genre> with the highest-rated movie per genre.
+
+
 🧼 Cleanup
 To stop everything:
 
